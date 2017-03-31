@@ -22,8 +22,13 @@ The following files contain functions or parameters that are used in this progra
     python k5_environment_create.py
 
 Author: Graham Land
+
 Date: 31/03/17
+
 Twitter: @allthingsclowd
+
 Github: https://github.com/allthingscloud
+
 Blog: https://allthingscloud.eu
+
 
